@@ -1,0 +1,6 @@
+ultralytics>=8.4,<9
+opencv-python>=4.8,<5
+easyocr>=1.7,<2
+numpy>=1.24
+Pillow>=10
+# Optional comparison: pip install pytesseract; also install the Tesseract system binary.

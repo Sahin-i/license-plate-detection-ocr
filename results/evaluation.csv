@@ -1,0 +1,39 @@
+image,group,plate_index,gt_box,pred_box,iou,detected_iou_50,raw_ocr,cleaned_ocr,gt_text,ocr_evaluable,exact_match,cer,correct
+data/test/images/dataset_a_multiple_vehicles_01.jpg,multiple_vehicles,0,"[2320, 1322, 2801, 1458]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_01.jpg,multiple_vehicles,1,"[17, 1471, 350, 1581]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_02.jpg,multiple_vehicles,0,"[2066, 1555, 2751, 1755]","[2054, 1561, 2758, 1772]",0.870530742725379,True,678,678,,False,,,
+data/test/images/dataset_a_multiple_vehicles_02.jpg,multiple_vehicles,1,"[3318, 1102, 3571, 1179]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_03.jpg,multiple_vehicles,0,"[2864, 2691, 3257, 2778]","[2855, 2685, 3276, 2798]",0.7187059886910643,True,8207TX,8207TX,,False,,,
+data/test/images/dataset_a_multiple_vehicles_03.jpg,multiple_vehicles,1,"[1181, 2670, 1449, 2741]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,0,"[430, 2976, 1429, 3198]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,1,"[2913, 3265, 3272, 3368]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,2,"[3785, 2966, 4075, 3050]","[3769, 2955, 4089, 3075]",0.634375,True,LE,LE,,False,,,
+data/test/images/dataset_a_multiple_vehicles_05.jpg,multiple_vehicles,0,"[1275, 2643, 1957, 2787]","[1255, 2623, 1974, 2831]",0.6566812881138333,True,767PY,767PY,,False,,,
+data/test/images/dataset_a_multiple_vehicles_05.jpg,multiple_vehicles,1,"[3982, 2925, 4384, 3031]","[3979, 2909, 4440, 3063]",0.6002197368791728,True,677ECX,677ECX,,False,,,
+data/test/images/dataset_a_multiple_vehicles_06.jpg,multiple_vehicles,0,"[2533, 2115, 2829, 2197]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_06.jpg,multiple_vehicles,1,"[3600, 2066, 3822, 2136]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_07.jpg,multiple_vehicles,0,"[1396, 1749, 2041, 1909]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_07.jpg,multiple_vehicles,1,"[2317, 2278, 2831, 2617]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,0,"[254, 1778, 408, 1808]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,1,"[1047, 1954, 1262, 1995]","[1021, 1921, 1284, 2004]",0.4038206056163819,False,3613RT,3613RT,,False,,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,2,"[3127, 2077, 3788, 2225]","[3139, 2081, 3763, 2243]",0.8239134421419402,True,7671HY,7671HY,,False,,,
+data/test/images/dataset_a_multiple_vehicles_09.jpg,multiple_vehicles,0,"[1672, 2801, 2803, 3078]","[1713, 2824, 2762, 3085]",0.8310077035835699,True,889KU,889KU,,False,,,
+data/test/images/dataset_a_multiple_vehicles_09.jpg,multiple_vehicles,1,"[4847, 1678, 5141, 1756]","[4836, 1687, 5155, 1777]",0.6469575200918485,True,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_10.jpg,multiple_vehicles,0,"[3893, 2394, 4446, 2580]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_multiple_vehicles_10.jpg,multiple_vehicles,1,"[6554, 512, 6876, 728]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_partial_occlusion_01.jpg,partial_occlusion,0,"[1186, 789, 1497, 860]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_partial_occlusion_02.jpg,partial_occlusion,0,"[938, 685, 1233, 749]","[924, 668, 1229, 760]",0.6577200169515468,True,3704DF,3704DF,,False,,,
+data/test/images/dataset_a_partial_occlusion_03.jpg,partial_occlusion,0,"[1007, 888, 1444, 1009]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_partial_occlusion_04.jpg,partial_occlusion,0,"[1016, 737, 1177, 777]",,0.0,False,,,,False,,,
+data/test/images/dataset_a_partial_occlusion_05.jpg,partial_occlusion,0,"[395, 919, 747, 1050]","[398, 931, 741, 1063]",0.8071226592315754,True,33,33,,False,,,
+data/test/images/latin_difficult_06.png,difficult,0,"[168, 196, 240, 231]","[170, 201, 239, 228]",0.7392857142857143,True,OHGBCKY,OHGBCKY,OMGBCKY,True,False,0.14285714285714285,False
+data/test/images/latin_difficult_10.png,difficult,0,"[148, 123, 201, 150]","[148, 124, 200, 152]",0.8807817589576548,True,IKACAR,IKACAR,IMACAR,True,False,0.16666666666666666,False
+data/test/images/latin_easy_03.png,easy,0,"[142, 128, 261, 157]","[144, 129, 257, 159]",0.8604840902909981,True,DZI7YXR,DZI7YXR,DZ17YXR,True,False,0.14285714285714285,False
+data/test/images/latin_easy_11.png,easy,0,"[148, 195, 221, 232]","[147, 200, 219, 227]",0.7027126099706745,True,AFR2011COV,AFR2011COV,AFR2011,True,False,0.42857142857142855,False
+data/test/images/latin_easy_17.png,easy,0,"[220, 173, 360, 200]","[223, 173, 360, 204]",0.8546672828096118,True,LR33TEE,LR33TEE,LR33TEE,True,True,0.0,True
+data/test/images/latin_medium_03.png,medium,0,"[147, 181, 260, 206]","[154, 184, 258, 209]",0.7293592604399107,True,DL7CN5617,DL7CN5617,DL7CN5617,True,True,0.0,True
+data/test/images/latin_medium_08.png,medium,0,"[71, 124, 198, 231]","[44, 143, 214, 239]",0.5965942454492072,True,MMNGO8,MMNGO8,MMN306,True,False,0.5,False
+data/test/images/latin_medium_15.png,medium,0,"[72, 160, 132, 197]","[69, 165, 131, 192]",0.6923076923076923,True,4SZH590,4SZH590,4SZW590,True,False,0.14285714285714285,False
+data/test/images/latin_multiple_vehicles_09.png,multiple_vehicles,0,"[44, 94, 107, 107]","[42, 92, 101, 107]",0.7694704049844237,True,P262FDX,P262FDX,PZ62FDX,True,False,0.14285714285714285,False
+data/test/images/latin_multiple_vehicles_09.png,multiple_vehicles,1,"[296, 122, 358, 135]","[292, 120, 355, 136]",0.7325692454632283,True,P262FDZ,P262FDZ,PZ62FDZ,True,False,0.14285714285714285,False
+data/test/images/latin_small_plate_02.png,small_plate,0,"[347, 122, 367, 132]","[346, 122, 366, 130]",0.7307692307692307,True,ML,ML,,False,,,

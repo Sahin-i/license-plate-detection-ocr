@@ -1,0 +1,4 @@
+image,gt_plates,verified_model_crops
+data\test\images\dataset_a_multiple_vehicles_02.jpg,2,1
+data\test\images\dataset_a_multiple_vehicles_04.jpg,3,1
+data\test\images\dataset_a_multiple_vehicles_05.jpg,2,2

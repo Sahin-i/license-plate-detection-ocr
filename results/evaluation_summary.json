@@ -1,0 +1,13 @@
+{
+  "test_images": 25,
+  "gt_plates": 38,
+  "mean_iou": 0.41947516420407,
+  "recall_at_iou_50": 0.5526315789473685,
+  "unmatched_predictions": 7,
+  "false_positives_at_iou_50": 8,
+  "ocr_evaluable_plates": 10,
+  "exact_match_all_evaluable": 0.2,
+  "mean_cer_all_evaluable": 0.18095238095238095,
+  "end_to_end_accuracy_at_iou_50": 0.2,
+  "ocr_accuracy_conditional_on_iou_50": 0.2
+}

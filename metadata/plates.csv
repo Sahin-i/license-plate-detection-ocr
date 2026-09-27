@@ -1,0 +1,111 @@
+﻿split,origin,image,group,plate_index,bbox_x1,bbox_y1,bbox_x2,bbox_y2,text_gt,visible_pattern,ocr_evaluable,source
+train,latin_70,data/train/images/latin_difficult_01.png,difficult,0,166,141,206,154,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_02.png,difficult,0,18,135,48,152,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_03.png,difficult,0,177,139,216,159,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_04.png,difficult,0,541,366,598,384,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_05.png,difficult,0,203,193,285,229,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_07.png,difficult,0,324,162,375,175,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_difficult_08.png,difficult,0,179,115,213,133,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_01.png,easy,0,226,125,419,173,KL01CA2555,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_04.png,easy,0,156,82,503,253,PU18BES,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_05.png,easy,0,112,114,373,239,80211N,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_07.png,easy,0,164,224,272,247,MH01AV8866,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_09.png,easy,0,122,82,277,117,MH12BG7237,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_10.png,easy,0,94,118,274,163,ALR4B6,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_12.png,easy,0,94,56,306,169,OX65AWD,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_13.png,easy,0,146,114,246,163,FAST,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_14.png,easy,0,45,98,364,159,OS802HN,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_15.png,easy,0,115,115,277,153,CZ17KOD,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_easy_18.jpg,easy,0,1263,951,1622,1077,DKD6A47,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_19.jpg,easy,0,51,958,363,1052,SFI6E78,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_20.jpg,easy,0,2990,349,3183,402,RWT5W90,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_21.jpg,easy,0,1880,815,2290,982,CJJ8B62,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_22.jpg,easy,0,1733,1071,2340,1213,PEI2I37,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_23.jpg,easy,0,1660,1057,2272,1228,RGU3T79,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_24.jpg,easy,0,1389,944,1928,1101,YIZ6N63,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_easy_25.jpg,easy,0,1230,1133,2022,1356,WDY8T88,,true,Artificial Mercosur License Plates (CC BY 4.0)
+train,latin_70,data/train/images/latin_medium_01.png,medium,0,310,146,372,171,TN21BY0166,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_02.png,medium,0,258,184,321,213,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_04.png,medium,0,91,186,137,208,KK0188,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_05.png,medium,0,109,182,159,206,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_06.png,medium,0,6,143,48,161,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_07.png,medium,0,264,141,318,162,YESBOSS,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_11.png,medium,0,149,218,267,247,MK3532,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_12.png,medium,0,178,181,204,191,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_13.png,medium,0,283,239,424,286,CH01AN0001,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_medium_14.png,medium,0,126,180,173,205,522927,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_01.png,multiple_vehicles,0,254,144,284,152,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_01.png,multiple_vehicles,1,86,150,125,161,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_02.png,multiple_vehicles,0,86,218,146,235,VU63GTY,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_02.png,multiple_vehicles,1,313,129,358,141,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_03.png,multiple_vehicles,0,3,205,45,220,TSLAS1,,true,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_03.png,multiple_vehicles,1,345,168,365,177,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_04.png,multiple_vehicles,0,230,129,248,134,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_04.png,multiple_vehicles,1,189,116,202,121,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_06.png,multiple_vehicles,0,283,159,306,168,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_06.png,multiple_vehicles,1,103,150,122,158,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_07.png,multiple_vehicles,0,29,192,57,203,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_07.png,multiple_vehicles,1,168,202,198,214,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_07.png,multiple_vehicles,2,313,180,333,191,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_07.png,multiple_vehicles,3,385,172,399,181,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_08.png,multiple_vehicles,0,201,185,217,195,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_08.png,multiple_vehicles,1,77,181,94,191,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_10.png,multiple_vehicles,0,296,189,332,209,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_multiple_vehicles_10.png,multiple_vehicles,1,23,173,54,192,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_partial_occlusion_01.png,partial_occlusion,0,286,173,400,211,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_partial_occlusion_03.png,partial_occlusion,0,173,209,301,239,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_partial_occlusion_04.png,partial_occlusion,0,181,264,269,289,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_partial_occlusion_05.png,partial_occlusion,0,95,162,127,183,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_small_plate_01.png,small_plate,0,77,204,101,225,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_small_plate_03.png,small_plate,0,336,192,357,204,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_small_plate_04.png,small_plate,0,315,189,337,197,,,false,Car License Plate Detection (CC0 listed by distributor)
+train,latin_70,data/train/images/latin_small_plate_04.png,small_plate,1,193,224,231,233,,,false,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_difficult_09.png,difficult,0,175,114,214,131,,,false,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_easy_02.png,easy,0,134,128,262,160,PGMN112,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_easy_06.png,easy,0,204,104,304,134,G526JHD,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_easy_08.png,easy,0,131,206,273,234,WOR516K,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_easy_16.png,easy,0,159,178,250,200,B2228HM,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_medium_09.png,medium,0,297,100,327,125,ROY9,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_medium_10.png,medium,0,195,266,244,282,NL60LXB,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_multiple_vehicles_05.png,multiple_vehicles,0,93,196,130,207,MFU3348,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_multiple_vehicles_05.png,multiple_vehicles,1,316,195,349,205,DNZ1017,,true,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_partial_occlusion_02.png,partial_occlusion,0,280,196,355,257,,,false,Car License Plate Detection (CC0 listed by distributor)
+val,latin_70,data/val/images/latin_small_plate_05.png,small_plate,0,223,106,250,119,,,false,Car License Plate Detection (CC0 listed by distributor)
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_01.jpg,multiple_vehicles,0,2320,1322,2801,1458,,72*7*PP,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_01.jpg,multiple_vehicles,1,17,1471,350,1581,,879*KX*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_02.jpg,multiple_vehicles,0,2066,1555,2751,1755,,*678*DP,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_02.jpg,multiple_vehicles,1,3318,1102,3571,1179,,*330*SZ,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_03.jpg,multiple_vehicles,0,2864,2691,3257,2778,,82*7*TX,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_03.jpg,multiple_vehicles,1,1181,2670,1449,2741,,630*CX*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,0,430,2976,1429,3198,,509*C*F,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,1,2913,3265,3272,3368,,89*0B*S,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_04.jpg,multiple_vehicles,2,3785,2966,4075,3050,,24*1*DW,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_05.jpg,multiple_vehicles,0,1275,2643,1957,2787,,767**PY,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_05.jpg,multiple_vehicles,1,3982,2925,4384,3031,,677**CX,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_06.jpg,multiple_vehicles,0,2533,2115,2829,2197,,R*366BD*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_06.jpg,multiple_vehicles,1,3600,2066,3822,2136,,799*LR*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_07.jpg,multiple_vehicles,0,1396,1749,2041,1909,,686*HF*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_07.jpg,multiple_vehicles,1,2317,2278,2831,2617,,36*7KW*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,0,254,1778,408,1808,,360*K*J,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,1,1047,1954,1262,1995,,36*3*RT,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_08.jpg,multiple_vehicles,2,3127,2077,3788,2225,,767*HY*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_09.jpg,multiple_vehicles,0,1672,2801,2803,3078,,8*89KW*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_09.jpg,multiple_vehicles,1,4847,1678,5141,1756,,2*52*YN,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_10.jpg,multiple_vehicles,0,3893,2394,4446,2580,,50*4*GH,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_multiple_vehicles_10.jpg,multiple_vehicles,1,6554,512,6876,728,,264**DT,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_partial_occlusion_01.jpg,partial_occlusion,0,1186,789,1497,860,,1*75KN*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_partial_occlusion_02.jpg,partial_occlusion,0,938,685,1233,749,,37*4D*F,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_partial_occlusion_03.jpg,partial_occlusion,0,1007,888,1444,1009,,208*BY*,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_partial_occlusion_04.jpg,partial_occlusion,0,1016,737,1177,777,,237**TF,false,UC3M-LP
+test,dataset_a_uc3m,data/test/images/dataset_a_partial_occlusion_05.jpg,partial_occlusion,0,395,919,747,1050,,482**GB,false,UC3M-LP
+test,latin_70,data/test/images/latin_difficult_06.png,difficult,0,168,196,240,231,OMGBCKY,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_difficult_10.png,difficult,0,148,123,201,150,IMACAR,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_easy_03.png,easy,0,142,128,261,157,DZ17YXR,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_easy_11.png,easy,0,148,195,221,232,AFR2011,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_easy_17.png,easy,0,220,173,360,200,LR33TEE,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_medium_03.png,medium,0,147,181,260,206,DL7CN5617,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_medium_08.png,medium,0,71,124,198,231,MMN306,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_medium_15.png,medium,0,72,160,132,197,4SZW590,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_multiple_vehicles_09.png,multiple_vehicles,0,44,94,107,107,PZ62FDX,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_multiple_vehicles_09.png,multiple_vehicles,1,296,122,358,135,PZ62FDZ,,true,Car License Plate Detection (CC0 listed by distributor)
+test,latin_70,data/test/images/latin_small_plate_02.png,small_plate,0,347,122,367,132,,,false,Car License Plate Detection (CC0 listed by distributor)

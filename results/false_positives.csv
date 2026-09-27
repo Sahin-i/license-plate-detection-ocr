@@ -1,0 +1,9 @@
+image,pred_box,raw_ocr,cleaned_ocr,reason
+data/test/images/dataset_a_multiple_vehicles_05.jpg,"[3978, 2897, 4584, 3062]",677CX,677CX,no overlapping GT
+data/test/images/dataset_a_multiple_vehicles_08.jpg,"[1021, 1921, 1284, 2004]",3613RT,3613RT,"matched GT, IoU below 0.50"
+data/test/images/dataset_a_multiple_vehicles_09.jpg,"[4693, 230, 5166, 464]",MCOTV,MCOTV,no overlapping GT
+data/test/images/latin_difficult_06.png,"[97, 242, 280, 279]",LKAHBUT,LKAHBUT,no overlapping GT
+data/test/images/latin_easy_11.png,"[149, 27, 223, 50]",ZUKIWYESTERHMOTO5,ZUKIWYESTERHMOTO5,no overlapping GT
+data/test/images/latin_easy_11.png,"[0, 0, 82, 29]",,,no overlapping GT
+data/test/images/latin_medium_08.png,"[43, 141, 250, 220]",MMN76,MMN76,no overlapping GT
+data/test/images/latin_medium_08.png,"[36, 143, 206, 206]",MMN,MMN,no overlapping GT

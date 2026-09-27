@@ -1,0 +1,39 @@
+image,plate_index,gt_box,pred_box,iou,detected_iou_50,raw_ocr,cleaned_ocr,gt_text,ocr_evaluable,exact_match,cer
+data/test/images/dataset_a_multiple_vehicles_01.jpg,0,"[2320, 1322, 2801, 1458]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_01.jpg,1,"[17, 1471, 350, 1581]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_02.jpg,0,"[2066, 1555, 2751, 1755]","[np.int64(2054), np.int64(1561), np.int64(2758), np.int64(1772)]",0.870530742725379,True,EO678JECPEUROTOLEDOKM0DP19251354910,EO678JECPEUROTOLEDOKM0DP19251354910,,False,,
+data/test/images/dataset_a_multiple_vehicles_02.jpg,1,"[3318, 1102, 3571, 1179]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_03.jpg,0,"[2864, 2691, 3257, 2778]","[np.int64(2855), np.int64(2685), np.int64(3276), np.int64(2798)]",0.7187059886910643,True,8217TX,8217TX,,False,,
+data/test/images/dataset_a_multiple_vehicles_03.jpg,1,"[1181, 2670, 1449, 2741]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,0,"[430, 2976, 1429, 3198]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,1,"[2913, 3265, 3272, 3368]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_04.jpg,2,"[3785, 2966, 4075, 3050]","[np.int64(3769), np.int64(2955), np.int64(4089), np.int64(3075)]",0.634375,True,EL,EL,,False,,
+data/test/images/dataset_a_multiple_vehicles_05.jpg,0,"[1275, 2643, 1957, 2787]","[np.int64(1255), np.int64(2623), np.int64(1974), np.int64(2831)]",0.6566812881138333,True,7671PY,7671PY,,False,,
+data/test/images/dataset_a_multiple_vehicles_05.jpg,1,"[3982, 2925, 4384, 3031]","[np.int64(3979), np.int64(2909), np.int64(4440), np.int64(3063)]",0.6002197368791728,True,6771ECX,6771ECX,,False,,
+data/test/images/dataset_a_multiple_vehicles_06.jpg,0,"[2533, 2115, 2829, 2197]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_06.jpg,1,"[3600, 2066, 3822, 2136]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_07.jpg,0,"[1396, 1749, 2041, 1909]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_07.jpg,1,"[2317, 2278, 2831, 2617]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,0,"[254, 1778, 408, 1808]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,1,"[1047, 1954, 1262, 1995]","[np.int64(1021), np.int64(1921), np.int64(1284), np.int64(2004)]",0.4038206056163819,False,363T,363T,,False,,
+data/test/images/dataset_a_multiple_vehicles_08.jpg,2,"[3127, 2077, 3788, 2225]","[np.int64(3139), np.int64(2081), np.int64(3763), np.int64(2243)]",0.8239134421419402,True,767HYL,767HYL,,False,,
+data/test/images/dataset_a_multiple_vehicles_09.jpg,0,"[1672, 2801, 2803, 3078]","[np.int64(1713), np.int64(2824), np.int64(2762), np.int64(3085)]",0.8310077035835699,True,81189KV,81189KV,,False,,
+data/test/images/dataset_a_multiple_vehicles_09.jpg,1,"[4847, 1678, 5141, 1756]","[np.int64(4836), np.int64(1687), np.int64(5155), np.int64(1777)]",0.6469575200918485,True,VH,VH,,False,,
+data/test/images/dataset_a_multiple_vehicles_10.jpg,0,"[3893, 2394, 4446, 2580]",,0.0,False,,,,False,,
+data/test/images/dataset_a_multiple_vehicles_10.jpg,1,"[6554, 512, 6876, 728]",,0.0,False,,,,False,,
+data/test/images/dataset_a_partial_occlusion_01.jpg,0,"[1186, 789, 1497, 860]",,0.0,False,,,,False,,
+data/test/images/dataset_a_partial_occlusion_02.jpg,0,"[938, 685, 1233, 749]","[np.int64(924), np.int64(668), np.int64(1229), np.int64(760)]",0.6577200169515468,True,374DF,374DF,,False,,
+data/test/images/dataset_a_partial_occlusion_03.jpg,0,"[1007, 888, 1444, 1009]",,0.0,False,,,,False,,
+data/test/images/dataset_a_partial_occlusion_04.jpg,0,"[1016, 737, 1177, 777]",,0.0,False,,,,False,,
+data/test/images/dataset_a_partial_occlusion_05.jpg,0,"[395, 919, 747, 1050]","[np.int64(398), np.int64(931), np.int64(741), np.int64(1063)]",0.8071226592315754,True,3,3,,False,,
+data/test/images/latin_difficult_06.png,0,"[168, 196, 240, 231]","[np.int64(170), np.int64(201), np.int64(239), np.int64(228)]",0.7392857142857143,True,HGBCKY,HGBCKY,OMGBCKY,True,False,0.2857142857142857
+data/test/images/latin_difficult_10.png,0,"[148, 123, 201, 150]","[np.int64(148), np.int64(124), np.int64(200), np.int64(152)]",0.8807817589576548,True,IHACAR,IHACAR,IMACAR,True,False,0.16666666666666666
+data/test/images/latin_easy_03.png,0,"[142, 128, 261, 157]","[np.int64(144), np.int64(129), np.int64(257), np.int64(159)]",0.8604840902909981,True,DZIZYXR,DZ12YXR,DZ17YXR,True,False,0.14285714285714285
+data/test/images/latin_easy_11.png,0,"[148, 195, 221, 232]","[np.int64(147), np.int64(200), np.int64(219), np.int64(227)]",0.7027126099706745,True,AFR20117SNO,AFR20117SNO,AFR2011,True,False,0.5714285714285714
+data/test/images/latin_easy_17.png,0,"[220, 173, 360, 200]","[np.int64(223), np.int64(173), np.int64(360), np.int64(204)]",0.8546672828096118,True,LR33TEE,LR33TEE,LR33TEE,True,True,0.0
+data/test/images/latin_medium_03.png,0,"[147, 181, 260, 206]","[np.int64(154), np.int64(184), np.int64(258), np.int64(209)]",0.7293592604399107,True,DLZCN56171,DLZCN56171,DL7CN5617,True,False,0.2222222222222222
+data/test/images/latin_medium_08.png,0,"[71, 124, 198, 231]","[np.int64(44), np.int64(143), np.int64(214), np.int64(239)]",0.5965942454492072,True,MWO2OYOHIFL,MWO2OYOHIFL,MMN306,True,False,1.6666666666666667
+data/test/images/latin_medium_15.png,0,"[72, 160, 132, 197]","[np.int64(69), np.int64(165), np.int64(131), np.int64(192)]",0.6923076923076923,True,4SZW590,4SZW590,4SZW590,True,True,0.0
+data/test/images/latin_multiple_vehicles_09.png,0,"[44, 94, 107, 107]","[np.int64(42), np.int64(92), np.int64(101), np.int64(107)]",0.7694704049844237,True,LP262FDX,LP262FDX,PZ62FDX,True,False,0.2857142857142857
+data/test/images/latin_multiple_vehicles_09.png,1,"[296, 122, 358, 135]","[np.int64(292), np.int64(120), np.int64(355), np.int64(136)]",0.7325692454632283,True,PZ62F02,PZ62F02,PZ62FDZ,True,False,0.2857142857142857
+data/test/images/latin_small_plate_02.png,0,"[347, 122, 367, 132]","[np.int64(346), np.int64(122), np.int64(366), np.int64(130)]",0.7307692307692307,True,,,,False,,
